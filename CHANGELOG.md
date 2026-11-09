@@ -11,3 +11,5 @@
 - Nueva interfaz Stark Gen 1 con pantalla de inicio, menú, tutorial, calibración y dibujo.
 - Herramientas mínimas: Selección, Dibujar, Borrar y Limpiar.
 - Pipeline de GitHub Actions para publicar el APK.
+
+- CI inicial activado para generar APK descargable desde GitHub.
